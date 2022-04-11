@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "3c6a4346-4b1e-4cc3-9aba-c9c48d782c7a",
+      "email": "endrita@gmail.com",
+      "username": "endrita",
+      "password": "$2a$10$2vhTrDlYH4SfZd2vi52PleWp7NGdTgy77HY.fso/agcZS6DtILAvG",
+      "address": "Prishtine",
+      "invoice_type": "test",
+      "year": "2022",
+      "month": "4",
+      "amount": "10000000"
+    },
+    {
+      "id": "f47dc0cf-8afb-439c-99d2-9f053949d6b0",
+      "email": "endrita.vllasaliu@student.uni-pr.edu",
+      "username": "endrita",
+      "password": "$2a$10$Jmm3gy1I.E9hFUH8bAfvpuptEg8rgpQFp9GELsmiyT.ixm/G8rdAK",
+      "address": "Prishtine",
+      "invoice_type": "test",
+      "year": "2022",
+      "month": "4",
+      "amount": "1000"
+    }
+  ]
+}
